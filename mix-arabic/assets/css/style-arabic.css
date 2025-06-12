@@ -1,0 +1,201 @@
+/* mob menu */
+.main-header .menu-dropdown.open .dropdown-menu{
+  text-align: initial !important;
+}
+.main-header .dropdown-menu{
+  padding-left: 5px !important;
+  padding-right: 10px !important;
+}
+
+.menu-button {
+  right: auto;
+  left: 0;
+}
+
+.about-content-arabic{
+  padding-left: 0px;
+  padding-right: 150px;
+}
+/* .abt-astr-ar {
+  position: absolute;
+	top: 100px;
+	right: 100px;
+	width: 250px;
+	z-index: 1;
+} */
+
+.abt-astr-ar {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+  width: 250px;
+  z-index: 1;
+}
+.abt-astr-img-wrap {
+  width: 100%;
+  height: 100%;
+}
+
+
+/* .letstalk-content-arabic {
+  left: auto;
+} */
+.abt-astr2-ar{
+	right: auto;
+	left: 150px;
+}
+
+/* about page */
+.page-about-in-cont-ar{
+	background-position: left !important;
+}
+
+.team-block-three .info-box-ar {
+	padding-right: 50px;
+	padding-left: 20px;
+}
+
+.team-block-three .info-box-ar::before {
+  position: absolute;
+  left: -40px;
+  right: -27px;
+  border-radius: 14px 0 0 14px;
+}
+
+/* .timeline-cntnt-ar {
+  display: flex;
+	align-items: self-start;
+	position: relative;
+  padding-right: 60px !important;
+  border-right: 2px dashed #d1d1d1 !important;
+} */
+
+.step-icon-ar {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  right: -11px;
+  top: 0;
+  z-index: 2;
+  border: 3px solid #f5f5f5;
+}
+
+.partners-item-out {
+  direction: ltr !important;
+}
+
+/* ceo message */
+.message-qoutes-ar {
+  right: auto;
+  left: 30px;
+}
+
+.left-serv-inner-items-ar {
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+
+/* portfolio */
+.portf-popup-cont ul li::before {
+  content: "→";
+  position: absolute;
+  top: 0;
+  left: auto;
+  color: #5f6364;
+  font-size: 1em;
+  right: -25px;
+  rotate: 180deg;
+}
+
+.offcanvas-header{
+  left: 30px;
+  right: auto;
+}
+
+/* career page */
+.job-info-ar{
+  margin-left: 0px !important;
+  margin-right: 25px;
+}
+
+.career-page_openings .job_time-ar img,
+.career-page_openings .job_location-ar img {
+  margin-right: 0px !important;
+  margin-left: 10px;
+}
+
+
+/* news at mix */
+.blog-listing-items-out-ar{
+  padding-right: 0px !important;
+  padding-left: 30px;
+}
+.blog-listing-items-auth-ar{
+  padding: 5px !important;
+}
+
+.left-related-article-ar span {
+  margin-right: 0px !important;
+  margin-left: 3px;
+}
+
+.left-contact-phone-ar h4 span,
+.left-contact-mail-ar h4 span{
+  margin-right: 0px !important;
+  margin-left: 10px;
+}
+
+.left-contact-mail-ar p .mail-icon {
+  margin-right: 0px !important; 
+  margin-left: 10px;
+}
+
+.contact-check-ar .form-check {
+  padding-left: 0 !important;
+  padding-right: 0em;
+}
+
+.contact-check-ar .form-check .form-check-input {
+  float: right !important;
+  margin-left: 10px !important;
+  margin-left: -1.5em;
+}
+
+
+/* clients */
+.testimonial-card h5::before {
+  margin-left: 0px;
+  margin-right: -30px;
+}
+
+
+/* contact form */
+.form-control.is-valid, .was-validated .form-control:valid {
+  padding-left: calc(1.5em + .75rem);
+  background-position: left calc(.375em + .1875rem) center;
+}
+
+.form-control.is-invalid, .was-validated .form-control:invalid {
+  padding-left: calc(1.5em + .75rem);
+  background-position: left calc(.375em + .1875rem) center;
+}
+
+.was-validated textarea.form-control:valid, textarea.form-control.is-valid {
+  padding-left: calc(1.5em + .75rem);
+  background-position: top calc(.375em + .1875rem) left calc(.375em + .1875rem);
+}
+
+
+
+
+
+
+
+
